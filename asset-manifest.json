@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/myweb/static/css/main.09e3c01e.css",
-    "main.js": "/myweb/static/js/main.ff96553b.js",
+    "main.js": "/myweb/static/js/main.be4842a9.js",
     "static/media/HelveticaNeueMedium.otf": "/myweb/static/media/HelveticaNeueMedium.38884ffafe8888205009.otf",
     "static/media/Acorn-SemiBold.ttf": "/myweb/static/media/Acorn-SemiBold.3ee3c1a11c553d4d181e.ttf",
     "index.html": "/myweb/index.html",
     "main.09e3c01e.css.map": "/myweb/static/css/main.09e3c01e.css.map",
-    "main.ff96553b.js.map": "/myweb/static/js/main.ff96553b.js.map"
+    "main.be4842a9.js.map": "/myweb/static/js/main.be4842a9.js.map"
   },
   "entrypoints": [
     "static/css/main.09e3c01e.css",
-    "static/js/main.ff96553b.js"
+    "static/js/main.be4842a9.js"
   ]
 }
