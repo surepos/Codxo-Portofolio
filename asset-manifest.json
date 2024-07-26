@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/myweb/static/css/main.e58c5187.css",
-    "main.js": "/myweb/static/js/main.e9a557e9.js",
+    "main.css": "/myweb/static/css/main.5ff3d82a.css",
+    "main.js": "/myweb/static/js/main.3742c563.js",
     "static/media/s.gltf": "/myweb/static/media/s.acda47d8522602dcb592.gltf",
     "static/media/tempconv.mov": "/myweb/static/media/tempconv.26562732342369bcb313.mov",
     "static/media/stopwatch.mov": "/myweb/static/media/stopwatch.d5e788ecf7663887130a.mov",
@@ -13,17 +13,18 @@
     "static/media/Typing.fbx": "/myweb/static/media/Typing.bdd2b664f5e2fe001f39.fbx",
     "static/media/dinaol.glb": "/myweb/static/media/dinaol.aee716dae7930b409663.glb",
     "static/media/Standing.fbx": "/myweb/static/media/Standing.8f2dc8b07d49682f74d8.fbx",
+    "static/media/me-bg.png": "/myweb/static/media/me-bg.e0b5d15780ef1c0dc6a8.png",
     "static/media/Falling Idle.fbx": "/myweb/static/media/Falling Idle.23153bacf2852a5b0f05.fbx",
     "static/media/HelveticaNeueMedium.otf": "/myweb/static/media/HelveticaNeueMedium.38884ffafe8888205009.otf",
     "static/media/Acorn-SemiBold.ttf": "/myweb/static/media/Acorn-SemiBold.3ee3c1a11c553d4d181e.ttf",
     "static/media/me.jpg": "/myweb/static/media/me.e4478b2768d3318bbdca.jpg",
     "static/media/star.png": "/myweb/static/media/star.8747000318c07805fb90.png",
     "index.html": "/myweb/index.html",
-    "main.e58c5187.css.map": "/myweb/static/css/main.e58c5187.css.map",
-    "main.e9a557e9.js.map": "/myweb/static/js/main.e9a557e9.js.map"
+    "main.5ff3d82a.css.map": "/myweb/static/css/main.5ff3d82a.css.map",
+    "main.3742c563.js.map": "/myweb/static/js/main.3742c563.js.map"
   },
   "entrypoints": [
-    "static/css/main.e58c5187.css",
-    "static/js/main.e9a557e9.js"
+    "static/css/main.5ff3d82a.css",
+    "static/js/main.3742c563.js"
   ]
 }
