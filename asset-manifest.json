@@ -1,15 +1,29 @@
 {
   "files": {
     "main.css": "/myweb/static/css/main.50f496b7.css",
-    "main.js": "/myweb/static/js/main.ef93415a.js",
+    "main.js": "/myweb/static/js/main.67b26c02.js",
+    "static/media/s.gltf": "/myweb/static/media/s.acda47d8522602dcb592.gltf",
+    "static/media/tempconv.mov": "/myweb/static/media/tempconv.26562732342369bcb313.mov",
+    "static/media/stopwatch.mov": "/myweb/static/media/stopwatch.d5e788ecf7663887130a.mov",
+    "static/media/incub.gltf": "/myweb/static/media/incub.6ce7408992724b77c7e2.gltf",
+    "static/media/calc.mov": "/myweb/static/media/calc.697030a42ccd3b73aae0.mov",
+    "static/media/tictactoe.mov": "/myweb/static/media/tictactoe.648de5b40ec6af44f19a.mov",
+    "static/media/weather.mp4": "/myweb/static/media/weather.c888b4b3b6aaa0bc1b9e.mp4",
+    "static/media/list.mov": "/myweb/static/media/list.a71f087d645adc91026b.mov",
+    "static/media/Typing.fbx": "/myweb/static/media/Typing.bdd2b664f5e2fe001f39.fbx",
+    "static/media/dinaol.glb": "/myweb/static/media/dinaol.aee716dae7930b409663.glb",
+    "static/media/Standing.fbx": "/myweb/static/media/Standing.8f2dc8b07d49682f74d8.fbx",
+    "static/media/Falling Idle.fbx": "/myweb/static/media/Falling Idle.23153bacf2852a5b0f05.fbx",
     "static/media/HelveticaNeueMedium.otf": "/myweb/static/media/HelveticaNeueMedium.38884ffafe8888205009.otf",
     "static/media/Acorn-SemiBold.ttf": "/myweb/static/media/Acorn-SemiBold.3ee3c1a11c553d4d181e.ttf",
+    "static/media/me.jpg": "/myweb/static/media/me.e4478b2768d3318bbdca.jpg",
+    "static/media/star.png": "/myweb/static/media/star.8747000318c07805fb90.png",
     "index.html": "/myweb/index.html",
     "main.50f496b7.css.map": "/myweb/static/css/main.50f496b7.css.map",
-    "main.ef93415a.js.map": "/myweb/static/js/main.ef93415a.js.map"
+    "main.67b26c02.js.map": "/myweb/static/js/main.67b26c02.js.map"
   },
   "entrypoints": [
     "static/css/main.50f496b7.css",
-    "static/js/main.ef93415a.js"
+    "static/js/main.67b26c02.js"
   ]
 }
