@@ -1059,7 +1059,7 @@ textarea::-webkit-scrollbar-thumb {
   .about-texts {
     width: 90%;
     max-width: 70rem;
-    /* margin-top: 50px; */
+    margin-top: 50px;
   }
   .name-intro {
     font-size: 5rem;
